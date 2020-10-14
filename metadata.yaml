@@ -1,0 +1,27 @@
+_repo: The-Chapel-on-the-Hill_63310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pretor, Alfred
+    birthdate: 1840
+    deathdate: 1908
+    gutenberg_agent_id: '52372'
+    url: http://www.gutenberg.org/2009/agents/52372
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Clergy -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- GITenberg
+title: The Chapel on the Hill
+url: http://www.gutenberg.org/ebooks/63310
